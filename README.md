@@ -34,7 +34,7 @@ Especially nice when in need of PowerShell and Python revshells, which can be a 
 
 ### Screenshots
 
-![Main](https://github.com/4ndr34z/shells/blob/main/screenshots/macOS162.png?raw=true)
+![Main](https://github.com/4ndr34z/shells/blob/main/screenshots/MacOS17.png?raw=true)
 ![Netcat](https://github.com/4ndr34z/shells/blob/main/screenshots/netcat1.png?raw=true)
 ![pwsh](https://github.com/4ndr34z/shells/blob/main/screenshots/pwsh3.png?raw=true)
 ![screenshot3](https://github.com/4ndr34z/shells/blob/main/screenshots/shells2.png?raw=true)
@@ -50,6 +50,12 @@ updog, ngrok, xclip
 
 ### Youtube video
 [Link](https://youtu.be/HDrzqiyKQtA)
+
+
+## Version 1.7
+- Removed "updog is not running" message when it first hasn't been activated
+- Removed some more auto-enter selections in menus
+
 
 ## Version 1.6.9
 - Fixed error in block MDE command
